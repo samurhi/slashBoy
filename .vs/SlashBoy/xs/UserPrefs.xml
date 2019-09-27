@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{014AB36D-F204-B5F5-6AAC-B0AA7C7493AE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterAnimator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CharacterMover.cs" Line="7" Column="32" />
+      <File FileName="Assets/Scripts/UserInput.cs" Line="11" Column="27" />
+      <File FileName="Assets/Scripts/TouchInfo.cs" Line="5" Column="23" />
+      <File FileName="Assets/Scripts/CharacterAnimator.cs" Line="18" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SlashBoy" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CharacterAnimator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="60884803-6843-498f-ab9a-e42fcd287069" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
